@@ -1,0 +1,16 @@
+{
+  "schema": "rapp-rappid/1.1",
+  "rappid": "76eff347-cf42-4b9e-88d3-84e7b636fca1",
+  "kind": "place",
+  "name": "pkstop-the-bean",
+  "display_name": "Cloud Gate (The Bean)",
+  "github": "https://github.com/kody-w/pkstop-the-bean",
+  "url": "https://kody-w.github.io/pkstop-the-bean",
+  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
+  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "planted_by": "kody-w",
+  "planted_at": "2026-05-06T01:03:02Z",
+  "planted_from": null,
+  "kernel_version": "0.6.0",
+  "location": "Millennium Park, Chicago"
+}
