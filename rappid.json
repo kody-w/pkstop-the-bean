@@ -1,16 +1,17 @@
 {
-  "schema": "rapp-rappid/1.1",
-  "rappid": "76eff347-cf42-4b9e-88d3-84e7b636fca1",
-  "kind": "place",
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-the-bean:2ace341261be2838c1050f042860fe01@github.com/kody-w/pkstop-the-bean",
+  "kind": "neighborhood",
   "name": "pkstop-the-bean",
-  "display_name": "Cloud Gate (The Bean)",
+  "display_name": "Pkstop \u2014 The Bean",
   "github": "https://github.com/kody-w/pkstop-the-bean",
-  "url": "https://kody-w.github.io/pkstop-the-bean",
-  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
-  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "url": "https://kody-w.github.io/pkstop-the-bean/",
+  "parent_rappid": null,
+  "parent_repo": "https://github.com/kody-w/RAPP",
   "planted_by": "kody-w",
-  "planted_at": "2026-05-06T01:03:02Z",
-  "planted_from": null,
+  "planted_at": "2026-05-09T22:11:43Z",
   "kernel_version": "0.6.0",
-  "location": "Millennium Park, Chicago"
+  "_planted_by_agent": "backfill_seeds",
+  "_backfilled_at": "2026-05-09T22:11:43Z",
+  "_backfill_reason": "Article XLVI compliance pass"
 }
