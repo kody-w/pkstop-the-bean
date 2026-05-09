@@ -1,0 +1,15 @@
+{
+  "schema": "rapp-neighborhood-members/1.0",
+  "neighborhood": "kody-w/pkstop-the-bean",
+  "updated_at": "2026-05-09T22:11:49Z",
+  "open_to_anyone": true,
+  "members": [
+    {
+      "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-the-bean:2ace341261be2838c1050f042860fe01@github.com/kody-w/pkstop-the-bean",
+      "github": "kody-w",
+      "role": "founder",
+      "joined_at": "2026-05-09T22:11:49Z",
+      "_note": "The operator who planted this pkstop-the-bean."
+    }
+  ]
+}
