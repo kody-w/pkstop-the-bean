@@ -52,7 +52,7 @@
     "quality_tier": "community",
     "license": "PolyForm-Small-Business",
     "kind": "neighborhood",
-    "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-the-bean:2ace341261be2838c1050f042860fe01@github.com/kody-w/pkstop-the-bean",
+    "rappid": "rappid:@kody-w/pkstop-the-bean:c20c2fc2f8af29de32d6bdc1f1136c881b1dba1b9e9a4fe17d0ccbd8fb137511",
     "gate_url": "https://kody-w.github.io/pkstop-the-bean/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=13602013476189917916",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
