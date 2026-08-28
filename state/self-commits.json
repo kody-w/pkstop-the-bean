@@ -1,0 +1,822 @@
+[
+ {
+  "sha": "db1477fb2ae140c1d66f04161fa3087d8b0d08ce",
+  "node_id": "C_kwDOSVZ-Q9oAKGRiMTQ3N2ZiMmFlMTQwYzFkNjZmMDQxNjFmYTMwODdkOGIwZDA4Y2U",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-16T18:56:23Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-16T18:56:23Z"
+   },
+   "message": "Estate drift steamroll 2026-07-16: converge to RAPP canon\n\n- 'Prototyping Platform' -> 'Prototype Platform' (the acronym law) where flagged\n- retired v2/v3 rappid residue marked legacy/read-forever at each site (specs,\n  constitutions, vault docs, trackers, code comments, JSON bridges with\n  same-line notes) \u2014 history kept, nothing re-minted\nDriven by the shared rapp-drift-lint; this repo now lints clean.\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>",
+   "tree": {
+    "sha": "e95b18f61e802999f458c840067d53ac1db178cf",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/e95b18f61e802999f458c840067d53ac1db178cf"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/db1477fb2ae140c1d66f04161fa3087d8b0d08ce",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/db1477fb2ae140c1d66f04161fa3087d8b0d08ce",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/db1477fb2ae140c1d66f04161fa3087d8b0d08ce",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/db1477fb2ae140c1d66f04161fa3087d8b0d08ce/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "e025f6b037262239d72c2912d0217e04ae1fe405",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/e025f6b037262239d72c2912d0217e04ae1fe405",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/e025f6b037262239d72c2912d0217e04ae1fe405"
+   }
+  ]
+ },
+ {
+  "sha": "e025f6b037262239d72c2912d0217e04ae1fe405",
+  "node_id": "C_kwDOSVZ-Q9oAKGUwMjVmNmIwMzcyNjIyMzlkNzJjMjkxMmQwMjE3ZTA0YWUxZmU0MDU",
+  "commit": {
+   "author": {
+    "name": "Claude (standing-guard)",
+    "email": "noreply@anthropic.com",
+    "date": "2026-07-15T23:12:51Z"
+   },
+   "committer": {
+    "name": "Claude (standing-guard)",
+    "email": "noreply@anthropic.com",
+    "date": "2026-07-15T23:12:51Z"
+   },
+   "message": "Refresh frozen spec: stop teaching the retired v2/name-hash mint (standing-guard)\n\nCommitted artifacts were already COMPLIANT, but the frozen specs/ still taught the\nretired identity: the v2 grammar and/or the cardinal-sin mint (uuid4().hex 32-hex,\nsha256(owner/repo)) and the old @rapp/origin species root. Refreshed the teaching to\nthe canonical \u00a76.1 form + keyless Hb(\"rapp/1:rappid\", uuid4) mint, with a supersession\nbanner. No identity bytes changed. This is the residue a schema-name-only pass missed.\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>",
+   "tree": {
+    "sha": "66e248038d58d8b6f1c5a8d68bb41ed217c326cf",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/66e248038d58d8b6f1c5a8d68bb41ed217c326cf"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/e025f6b037262239d72c2912d0217e04ae1fe405",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/e025f6b037262239d72c2912d0217e04ae1fe405",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/e025f6b037262239d72c2912d0217e04ae1fe405",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/e025f6b037262239d72c2912d0217e04ae1fe405/comments",
+  "author": {
+   "login": "claude",
+   "id": 81847,
+   "node_id": "MDQ6VXNlcjgxODQ3",
+   "avatar_url": "https://avatars.githubusercontent.com/u/81847?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/claude",
+   "html_url": "https://github.com/claude",
+   "followers_url": "https://api.github.com/users/claude/followers",
+   "following_url": "https://api.github.com/users/claude/following{/other_user}",
+   "gists_url": "https://api.github.com/users/claude/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/claude/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/claude/subscriptions",
+   "organizations_url": "https://api.github.com/users/claude/orgs",
+   "repos_url": "https://api.github.com/users/claude/repos",
+   "events_url": "https://api.github.com/users/claude/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/claude/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "claude",
+   "id": 81847,
+   "node_id": "MDQ6VXNlcjgxODQ3",
+   "avatar_url": "https://avatars.githubusercontent.com/u/81847?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/claude",
+   "html_url": "https://github.com/claude",
+   "followers_url": "https://api.github.com/users/claude/followers",
+   "following_url": "https://api.github.com/users/claude/following{/other_user}",
+   "gists_url": "https://api.github.com/users/claude/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/claude/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/claude/subscriptions",
+   "organizations_url": "https://api.github.com/users/claude/orgs",
+   "repos_url": "https://api.github.com/users/claude/repos",
+   "events_url": "https://api.github.com/users/claude/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/claude/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "374b53d01e5dce0134682d4eff4171942898dced",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/374b53d01e5dce0134682d4eff4171942898dced",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/374b53d01e5dce0134682d4eff4171942898dced"
+   }
+  ]
+ },
+ {
+  "sha": "374b53d01e5dce0134682d4eff4171942898dced",
+  "node_id": "C_kwDOSVZ-Q9oAKDM3NGI1M2QwMWU1ZGNlMDEzNDY4MmQ0ZWZmNDE3MTk0Mjg5OGRjZWQ",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-15T21:22:21Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-15T21:22:21Z"
+   },
+   "message": "Refresh frozen RAPPID_SPEC excerpt to ratified schema name rapp/1 (RAPP Art. LIV; LIII.7 refresh cadence)\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>",
+   "tree": {
+    "sha": "b91534aa5c6be6cc9e9b4a3db688d949a00928c1",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/b91534aa5c6be6cc9e9b4a3db688d949a00928c1"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/374b53d01e5dce0134682d4eff4171942898dced",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/374b53d01e5dce0134682d4eff4171942898dced",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/374b53d01e5dce0134682d4eff4171942898dced",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/374b53d01e5dce0134682d4eff4171942898dced/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "f97fe01949901c4224066f96d513d7f9ebacd850",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/f97fe01949901c4224066f96d513d7f9ebacd850",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/f97fe01949901c4224066f96d513d7f9ebacd850"
+   }
+  ]
+ },
+ {
+  "sha": "f97fe01949901c4224066f96d513d7f9ebacd850",
+  "node_id": "C_kwDOSVZ-Q9oAKGY5N2ZlMDE5NDk5MDFjNDIyNDA2NmY5NmQ1MTNkN2Y5ZWJhY2Q4NTA",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-15T15:04:36Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-15T15:04:36Z"
+   },
+   "message": "Normalize legacy parent_rappid to canonical tagged ancestor (\u00a76.3)\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>",
+   "tree": {
+    "sha": "9e57e9d03b7ba888128ba0521b36a7ccd2e48555",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/9e57e9d03b7ba888128ba0521b36a7ccd2e48555"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/f97fe01949901c4224066f96d513d7f9ebacd850",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/f97fe01949901c4224066f96d513d7f9ebacd850",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/f97fe01949901c4224066f96d513d7f9ebacd850",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/f97fe01949901c4224066f96d513d7f9ebacd850/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "bfdc54dd93b524108b196afe77e06d1835f64eb1",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/bfdc54dd93b524108b196afe77e06d1835f64eb1",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/bfdc54dd93b524108b196afe77e06d1835f64eb1"
+   }
+  ]
+ },
+ {
+  "sha": "bfdc54dd93b524108b196afe77e06d1835f64eb1",
+  "node_id": "C_kwDOSVZ-Q9oAKGJmZGM1NGRkOTNiNTI0MTA4YjE5NmFmZTc3ZTA2ZDE4MzVmNjRlYjE",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-15T14:43:16Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-07-15T14:43:16Z"
+   },
+   "message": "Migrate to RAPP/1: coordinated identity re-anchor + schema label (identity layer)\n\nDeterministic re-anchor of each rappid from its own UUID to the domain-tagged 64-hex mint (\u00a75/\u00a76.2); old string kept in _migrated_from (\u00a76.3); schema label -> rapp/1 (\u00a712); parent_rappid rewired to the new estate ids in one coordinated pass. Content-addressed frames and test fixtures untouched. Frame re-genesis is the owner-signed pass 2.\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>",
+   "tree": {
+    "sha": "299cfcc8b7faccbaefac6c0fe2c36e867def4e50",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/299cfcc8b7faccbaefac6c0fe2c36e867def4e50"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/bfdc54dd93b524108b196afe77e06d1835f64eb1",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/bfdc54dd93b524108b196afe77e06d1835f64eb1",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/bfdc54dd93b524108b196afe77e06d1835f64eb1",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/bfdc54dd93b524108b196afe77e06d1835f64eb1/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "fa0ae50ad1d129dc3a5388cc9fd3597a590faded",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/fa0ae50ad1d129dc3a5388cc9fd3597a590faded",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/fa0ae50ad1d129dc3a5388cc9fd3597a590faded"
+   }
+  ]
+ },
+ {
+  "sha": "fa0ae50ad1d129dc3a5388cc9fd3597a590faded",
+  "node_id": "C_kwDOSVZ-Q9oAKGZhMGFlNTBhZDFkMTI5ZGMzYTUzODhjYzlmZDM1OTdhNTkwZmFkZWQ",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T23:19:21Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T23:19:21Z"
+   },
+   "message": "backfill: set parent_rappid (Article XLVI.6)",
+   "tree": {
+    "sha": "967f4dcef3921d68065eed40236e7e83792bb651",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/967f4dcef3921d68065eed40236e7e83792bb651"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/fa0ae50ad1d129dc3a5388cc9fd3597a590faded",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/fa0ae50ad1d129dc3a5388cc9fd3597a590faded",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/fa0ae50ad1d129dc3a5388cc9fd3597a590faded",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/fa0ae50ad1d129dc3a5388cc9fd3597a590faded/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "ca8b9691d0a8983d63c189d55d025da93d66f32f",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/ca8b9691d0a8983d63c189d55d025da93d66f32f",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/ca8b9691d0a8983d63c189d55d025da93d66f32f"
+   }
+  ]
+ },
+ {
+  "sha": "ca8b9691d0a8983d63c189d55d025da93d66f32f",
+  "node_id": "C_kwDOSVZ-Q9oAKGNhOGI5NjkxZDBhODk4M2Q2M2MxODlkNTVkMDI1ZGE5M2Q2NmYzMmY",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:50Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:50Z"
+   },
+   "message": "backfill: Door URL Set \u00a78 \u2014 required (empty for twins) (Article XLVI)",
+   "tree": {
+    "sha": "a9d661abca01d5f282313c804c8dfc54c23e93cc",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/a9d661abca01d5f282313c804c8dfc54c23e93cc"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/ca8b9691d0a8983d63c189d55d025da93d66f32f",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/ca8b9691d0a8983d63c189d55d025da93d66f32f",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/ca8b9691d0a8983d63c189d55d025da93d66f32f",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/ca8b9691d0a8983d63c189d55d025da93d66f32f/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "a62b6fae22bc75f106803e4d3f53311ac08fd995",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/a62b6fae22bc75f106803e4d3f53311ac08fd995",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/a62b6fae22bc75f106803e4d3f53311ac08fd995"
+   }
+  ]
+ },
+ {
+  "sha": "a62b6fae22bc75f106803e4d3f53311ac08fd995",
+  "node_id": "C_kwDOSVZ-Q9oAKGE2MmI2ZmFlMjJiYzc1ZjEwNjgwM2U0ZDNmNTMzMTFhYzA4ZmQ5OTU",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:49Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:49Z"
+   },
+   "message": "backfill: Door URL Set \u00a79 \u2014 required (Article XLVI)",
+   "tree": {
+    "sha": "bb498803c6d6ec35ea122b213c104470f7cdc6c2",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/bb498803c6d6ec35ea122b213c104470f7cdc6c2"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/a62b6fae22bc75f106803e4d3f53311ac08fd995",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/a62b6fae22bc75f106803e4d3f53311ac08fd995",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/a62b6fae22bc75f106803e4d3f53311ac08fd995",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/a62b6fae22bc75f106803e4d3f53311ac08fd995/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "99ef65998eac42786abea9ae27eec265083a4d8e",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/99ef65998eac42786abea9ae27eec265083a4d8e",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/99ef65998eac42786abea9ae27eec265083a4d8e"
+   }
+  ]
+ },
+ {
+  "sha": "99ef65998eac42786abea9ae27eec265083a4d8e",
+  "node_id": "C_kwDOSVZ-Q9oAKDk5ZWY2NTk5OGVhYzQyNzg2YWJlYTlhZTI3ZWVjMjY1MDgzYTRkOGU",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:48Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:48Z"
+   },
+   "message": "backfill: regenerate summon QR for reissued rappid (Article XLVI)",
+   "tree": {
+    "sha": "f1501488a51562ed4392a3bbc4461b20050ecc9d",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/f1501488a51562ed4392a3bbc4461b20050ecc9d"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/99ef65998eac42786abea9ae27eec265083a4d8e",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/99ef65998eac42786abea9ae27eec265083a4d8e",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/99ef65998eac42786abea9ae27eec265083a4d8e",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/99ef65998eac42786abea9ae27eec265083a4d8e/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "055301652fdf69193a2a028eb519a271f8722010",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/055301652fdf69193a2a028eb519a271f8722010",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/055301652fdf69193a2a028eb519a271f8722010"
+   }
+  ]
+ },
+ {
+  "sha": "055301652fdf69193a2a028eb519a271f8722010",
+  "node_id": "C_kwDOSVZ-Q9oAKDA1NTMwMTY1MmZkZjY5MTkzYTJhMDI4ZWI1MTlhMjcxZjg3MjIwMTA",
+  "commit": {
+   "author": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:46Z"
+   },
+   "committer": {
+    "name": "Kody Wildfeuer",
+    "email": "kwildfeuer@me.com",
+    "date": "2026-05-09T22:11:46Z"
+   },
+   "message": "backfill: regenerate avatar for reissued rappid (Article XLVI)",
+   "tree": {
+    "sha": "11eeaba87e72029c281d831bbfc9a306bf9c75ff",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/trees/11eeaba87e72029c281d831bbfc9a306bf9c75ff"
+   },
+   "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/git/commits/055301652fdf69193a2a028eb519a271f8722010",
+   "comment_count": 0,
+   "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+   }
+  },
+  "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/055301652fdf69193a2a028eb519a271f8722010",
+  "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/055301652fdf69193a2a028eb519a271f8722010",
+  "comments_url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/055301652fdf69193a2a028eb519a271f8722010/comments",
+  "author": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "committer": {
+   "login": "kody-w",
+   "id": 1735900,
+   "node_id": "MDQ6VXNlcjE3MzU5MDA=",
+   "avatar_url": "https://avatars.githubusercontent.com/u/1735900?v=4",
+   "gravatar_id": "",
+   "url": "https://api.github.com/users/kody-w",
+   "html_url": "https://github.com/kody-w",
+   "followers_url": "https://api.github.com/users/kody-w/followers",
+   "following_url": "https://api.github.com/users/kody-w/following{/other_user}",
+   "gists_url": "https://api.github.com/users/kody-w/gists{/gist_id}",
+   "starred_url": "https://api.github.com/users/kody-w/starred{/owner}{/repo}",
+   "subscriptions_url": "https://api.github.com/users/kody-w/subscriptions",
+   "organizations_url": "https://api.github.com/users/kody-w/orgs",
+   "repos_url": "https://api.github.com/users/kody-w/repos",
+   "events_url": "https://api.github.com/users/kody-w/events{/privacy}",
+   "received_events_url": "https://api.github.com/users/kody-w/received_events",
+   "type": "User",
+   "user_view_type": "public",
+   "site_admin": false
+  },
+  "parents": [
+   {
+    "sha": "f36143efb012494fadee5e450457b7eb44755c24",
+    "url": "https://api.github.com/repos/kody-w/pkstop-the-bean/commits/f36143efb012494fadee5e450457b7eb44755c24",
+    "html_url": "https://github.com/kody-w/pkstop-the-bean/commit/f36143efb012494fadee5e450457b7eb44755c24"
+   }
+  ]
+ }
+]

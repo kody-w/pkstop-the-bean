@@ -1,0 +1,45 @@
+name: Build GitHub Snapshot
+
+# Article XXIV (the Static Data Covenant, kody-w/RAR CONSTITUTION.md): pages
+# read committed static data, never the GitHub API. classic.html used to
+# fetch repo metadata / commits / the agents/ listing (and, for older seeds,
+# the same three signals for a parent seed) live from api.github.com on
+# every visitor's browser, unauthenticated. This workflow keeps
+# state/*.json true as a CI-harvested snapshot in the identical API
+# response shape — the page changed by URL only, parsing untouched.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'state/self-repo.json'
+      - 'state/self-commits.json'
+      - 'state/self-agents.json'
+      - 'state/parent-lineage.json'
+  schedule:
+    # Repo signals (forks, fork counts on the parent, commit recency) can
+    # drift without a push to this repo — keep the snapshot from going
+    # stale between pushes.
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Harvest GitHub snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/harvest_gh_snapshot.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/self-repo.json state/self-commits.json state/self-agents.json state/parent-lineage.json
+          git diff --cached --quiet || { git commit -m "chore: refresh gh snapshot [skip ci]"; git push; }
